@@ -26,6 +26,12 @@ h1{
     margin-right: 10px;
 }
 
-.text{
+.texto{
     overflow: hidden;
+    margin-right: 200px;
+}
+
+
+.subtitulo{
+    color: darkgreen;
 }
