@@ -1,0 +1,15 @@
+.navbar-expand-lg{
+    background-color:#D9A1DE;
+}
+
+.navbar-collapse{
+    justify-content: end;
+}
+
+h1{
+    margin-left: 50px;
+}
+
+.navbar-nav{
+    margin-right: 50px;
+}
