@@ -15,6 +15,17 @@ h1{
 }
 
 .contenedor{
-    margin-left: 50px;
+    margin-left: 200px;
     margin-top: 50px;
+    overflow: hidden;
+}
+
+
+.fotocarolina{
+    float: left;
+    margin-right: 10px;
+}
+
+.text{
+    overflow: hidden;
 }
