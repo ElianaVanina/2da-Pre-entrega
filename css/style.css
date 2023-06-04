@@ -16,7 +16,7 @@ h1{
 
 .contenedor{
     margin-left: 200px;
-    margin-top: 50px;
+    margin-top: 60px;
     overflow: hidden;
 }
 
@@ -35,3 +35,17 @@ h1{
 .subtitulo{
     color: darkgreen;
 }
+
+.seccion{
+    text-align: center;
+    color: darkgreen;
+}
+
+.btn-primary{
+    background-color: #D9A1DE;
+    color: black;
+}
+.btn-primary:hover{
+    background-color: darkgreen;
+}
+
