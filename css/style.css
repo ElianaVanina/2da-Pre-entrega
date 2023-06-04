@@ -51,10 +51,6 @@ h1{
     border-color: darkgreen;
 }
 
-.descargables{
-    text-align: center;
-    background-color: #D9A1DE;
-}
 
 .linkdescarga{
     color: darkgreen;
@@ -62,4 +58,38 @@ h1{
 
 .newsletter{
     text-align: center;
+}
+
+.image-container{
+    position: relative;
+}
+
+.sesion{
+    position:absolute;
+    top: 55%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+    margin-left: 70px;
+}
+
+.gratis{
+    position:absolute;
+    margin-left: 800px;
+    top: 320%;
+    transform: translate(-50%, -50%);
+
+}
+
+.derechosreservados{
+    text-align: center;
+    color: darkgrey;
+}
+
+.inicio{
+    margin-left: 10px;
+}
+
+.nav-item :hover{
+    color: darkgreen;
+    
 }
