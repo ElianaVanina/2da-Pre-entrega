@@ -138,3 +138,15 @@ h1{
     transform: translate(-50%, -50%);
 
 }
+
+.image-container3{
+    position: relative;
+}
+
+.gratis3{
+    position:absolute;
+    margin-left: 800px;
+    top: 195%;
+    transform: translate(-50%, -50%);
+
+}
