@@ -93,3 +93,48 @@ h1{
     color: darkgreen;
     
 }
+
+.titulo1{
+    text-align: center;
+    color: darkgreen;
+}
+
+.texto1{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.titulo2{
+    text-align: center;
+    color: darkgreen;
+}
+
+.texto2{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.titulo3{
+    color:darkgreen;
+    text-align: center;
+}
+
+.texto3{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.image-container2{
+    position: relative;
+}
+
+.gratis2{
+    position:absolute;
+    margin-left: 800px;
+    top: 220%;
+    transform: translate(-50%, -50%);
+
+}
